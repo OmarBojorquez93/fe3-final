@@ -5,6 +5,7 @@ const Card = ({ name, username, id }) => {
 
   const addFav = ()=>{
     // Aqui iria la logica para agregar la Card en el localStorage
+    // SE IMPLEMENTA EN PAGES/HOME 
   }
 
   return (
